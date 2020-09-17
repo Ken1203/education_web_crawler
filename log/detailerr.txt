@@ -1,0 +1,660 @@
+---
+[20200703 17:11:31] process number 1 : 一般log紀錄  第一步
+[20200703 17:11:31] process number 2 : 一般log紀錄  第二步
+---
+[20200703 17:15:45] process number 1 : 一般log紀錄  第一步
+[20200703 17:15:45] process number 2 : 一般log紀錄  第二步
+---
+[20200703 17:16:45] process number 1 : 一般log紀錄  第一步
+[20200703 17:16:45] process number 2 : 一般log紀錄  第二步
+---
+[20200703 17:23:38] process number 1 : 一般log紀錄  第一步
+[20200703 17:23:38] process number 2 : 一般log紀錄  第二步
+---
+[20200703 17:25:18] process number 1 : 一般log紀錄  第一步
+[20200703 17:25:18] process number 2 : 一般log紀錄  第二步
+---
+[20200703 17:26:22] process number 1 : 一般log紀錄  第一步
+[20200703 17:26:22] process number 2 : 一般log紀錄  第二步
+---
+[20200703 17:26:55] process number 1 : 一般log紀錄  第一步
+[20200703 17:26:55] process number 2 : 一般log紀錄  第二步
+---
+[20200704 10:12:07] process number 1 : 一般log紀錄  第一步
+[20200704 10:12:07] process number 2 : 一般log紀錄  第二步
+---
+[20200704 10:20:39] process number 1 : 一般log紀錄  第一步
+[20200704 10:20:39] process number 2 : 一般log紀錄  第二步
+---
+[20200704 10:21:40] process number 1 : 一般log紀錄  第一步
+[20200704 10:21:40] process number 2 : 一般log紀錄  第二步
+---
+[20200704 11:16:13] process number 1 : 一般log紀錄  第一步
+[20200704 11:16:13] process number 2 : 一般log紀錄  第二步
+---
+[20200704 11:17:32] process number 1 : 一般log紀錄  第一步
+[20200704 11:17:32] process number 2 : 一般log紀錄  第二步
+---
+[20200704 11:53:25] process number 1 : 一般log紀錄  第一步
+[20200704 11:53:25] process number 2 : 一般log紀錄  第二步
+---
+[20200704 11:58:18] process number 1 : 一般log紀錄  第一步
+[20200704 11:58:18] process number 2 : 一般log紀錄  第二步
+[20200704 12:11:55]執行完第三步驟的錯誤為: local variable 'time' referenced before assignment
+[20200704 12:14:56]執行完第三步驟的錯誤為: local variable 'time' referenced before assignment
+[20200704 12:23:08]執行完第三步驟的錯誤為: local variable 'time' referenced before assignment
+[20200704 12:30:14]執行完第三步驟的錯誤為: ResultSet object has no attribute 'sleep'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+[20200704 12:30:44]執行完第三步驟的錯誤為: local variable 'time' referenced before assignment
+[20200704 12:30:59]執行完第三步驟的錯誤為: ResultSet object has no attribute 'sleep'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+[20200704 12:33:42]執行完第三步驟的錯誤為: local variable 'time' referenced before assignment
+[20200704 12:39:18]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 13:04:13]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 13:06:46]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 13:08:35]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 13:53:59]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 13:53:59]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 13:53:59]第五步驟寫入結束
+[20200704 13:56:54]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 13:56:54]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 13:56:54]第五步驟寫入結束
+[20200704 13:59:16]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 13:59:16]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 13:59:16]第五步驟寫入結束
+[20200704 14:01:08]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 14:01:08]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 14:01:08]第五步驟寫入結束
+[20200704 14:03:42]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 14:03:42]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 14:03:42]第五步驟寫入結束
+[20200704 14:05:10]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 14:05:10]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 14:05:10]第五步驟寫入結束
+[20200704 14:08:17]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 14:08:17]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 14:08:17]第五步驟寫入結束
+[20200704 14:26:45]執行完第三步驟的有錯誤 
+[20200704 14:26:45]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 14:26:45]第五步驟寫入結束
+[20200704 14:39:20]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 14:39:20]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 14:39:20]第五步驟寫入結束
+[20200704 14:40:33]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 14:40:33]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 14:40:33]執行完第五步驟的錯誤為: name 'today' is not defined,新增失敗
+[20200704 14:40:33]第五步驟寫入結束
+[20200704 14:44:13]執行完第三步驟的錯誤為: 'module' object is not subscriptable
+[20200704 14:44:13]執行完第四步驟的錯誤為: arrays must all be same length
+[20200704 14:44:13]執行完第五步驟的錯誤為: [Errno 2] File 20200704_UCOM_ED.csv does not exist: '20200704_UCOM_ED.csv',新增失敗
+[20200704 14:44:13]第五步驟寫入結束
+[20200704 14:56:45]執行完第五步驟時: 新增成功
+[20200704 14:56:45]第五步驟寫入結束
+[20200706 18:12:25]執行第四步完錯誤為: local variable 'now' referenced before assignment,新增失敗
+[20200706 18:12:25]執行第四步完,寫入結束
+[20200707 22:22:00]執行第一步完錯誤為: local variable 'a' referenced before assignment
+[20200707 22:22:12]執行第四步完錯誤為: local variable 'now' referenced before assignment,新增失敗
+[20200707 22:22:12]執行第四步完,寫入結束
+[20200707 23:57:40]執行第四步完錯誤為: local variable 'now' referenced before assignment,新增失敗
+[20200707 23:57:40]執行第四步完,寫入結束
+[20200708 16:34:42]執行完第五步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost#192.168.56.126' ([Errno 8] nodename nor servname provided, or not known)")
+(Background on this error at: http://sqlalche.me/e/e3q8),新增失敗
+[20200708 16:34:42]第五步驟寫入結束
+[20200708 16:38:07]執行完第五步驟時: 新增成功
+[20200708 16:38:07]第五步驟寫入結束
+[20200709 02:56:46]執行第四步完,資料庫新增成功
+[20200709 02:56:46]執行第四步完,寫入結束
+[20200710 10:24:04]執行完第五步驟時: 新增成功
+[20200710 10:24:04]第五步驟寫入結束
+[20200719 17:46:25]執行完第五步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: http://sqlalche.me/e/e3q8),新增失敗
+[20200719 17:46:25]第五步驟寫入結束
+[20200720 11:38:36]執行完第五步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: http://sqlalche.me/e/e3q8),新增失敗
+[20200720 11:38:36]第五步驟寫入結束
+[20200720 11:41:16]執行完第五步驟時: 新增成功
+[20200720 11:41:16]第五步驟寫入結束
+[20200720 12:19:09]執行完第ㄧ步驟的錯誤為: name 'today' is not defined
+[20200720 12:19:13]執行完第ㄧ步驟的錯誤為: name 'today' is not defined
+[20200720 12:21:56]執行完第ㄧ步驟的錯誤為: TypeError
+[20200720 12:37:30]執行完第五步驟時: 新增成功
+[20200720 12:37:30]第五步驟寫入結束
+[20200720 15:30:10]執行完第四步驟的錯誤為: name 'sqlalchemy' is not defined,新增失敗
+[20200720 15:30:10]第四步驟寫入結束
+[20200720 15:30:32]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 15:30:32]第四步驟寫入結束
+[20200720 15:44:12]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 15:44:12]第四步驟寫入結束
+[20200720 15:45:27]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 15:45:27]第四步驟寫入結束
+[20200720 15:45:56]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 15:45:56]第四步驟寫入結束
+[20200720 15:47:00]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 15:47:00]第四步驟寫入結束
+[20200720 15:47:20]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `uCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 15:47:20]第四步驟寫入結束
+[20200720 15:47:52]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 15:47:52]第四步驟寫入結束
+[20200720 16:02:11]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:02:11]第四步驟寫入結束
+[20200720 16:02:43]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:02:43]第四步驟寫入結束
+[20200720 16:11:42]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:11:42]第四步驟:寫入結束
+[20200720 16:16:01]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:16:01]第四步驟:寫入結束
+[20200720 16:16:59]執行完第四步驟的錯誤為: Could not parse rfc1738 URL from string 'engine',新增失敗
+[20200720 16:16:59]第四步驟:寫入結束
+[20200720 16:17:15]執行完第四步驟的錯誤為: Could not parse rfc1738 URL from string 'engine',新增失敗
+[20200720 16:17:15]第四步驟:寫入結束
+[20200720 16:17:49]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:17:49]第四步驟:寫入結束
+[20200720 16:19:49]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:19:49]第四步驟:寫入結束
+[20200720 16:20:11]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:20:11]第四步驟:寫入結束
+[20200720 16:21:42]執行完第ㄧ步驟的錯誤為: can only concatenate str (not "set") to str
+[20200720 16:23:04]執行完第ㄧ步驟的錯誤為: can only concatenate str (not "set") to str
+[20200720 16:23:39]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:23:39]第四步驟:寫入結束
+[20200720 16:31:42]執行完第ㄧ步驟的錯誤為: Could not parse rfc1738 URL from string 'mysql pymysql://ken:3989889@localhost:3306/test'
+[20200720 16:32:00]執行完第ㄧ步驟的錯誤為: Can't load plugin: sqlalchemy.dialects:pymysql
+[20200720 16:33:49]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:33:49]第四步驟:寫入結束
+[20200720 16:35:03]執行完第ㄧ步驟的錯誤為: No module named 'MySQLdb'
+[20200720 16:40:57]執行完第ㄧ步驟的錯誤為: No module named 'MySQLdb'
+[20200720 16:41:35]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:41:35]第四步驟:寫入結束
+[20200720 16:44:09]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 16:44:09]第四步驟:寫入結束
+[20200720 16:51:51]執行完第四步驟的錯誤為: local variable 'df' referenced before assignment,新增失敗
+[20200720 16:51:51]第四步驟:寫入結束
+[20200720 16:52:18]執行完第四步驟的錯誤為: No columns to parse from file,新增失敗
+[20200720 16:52:18]第四步驟:寫入結束
+[20200720 16:54:45]執行完第四步驟時: 新增成功
+[20200720 16:54:45]第四步驟:寫入結束
+[20200720 17:00:46]執行完第四步驟的錯誤為: name 'today' is not defined,新增失敗
+[20200720 17:00:46]第四步驟:寫入結束
+[20200720 17:01:24]執行完第四步驟的錯誤為: [Errno 2] File UCOM_ED_wash.csv does not exist: 'UCOM_ED_wash.csv',新增失敗
+[20200720 17:01:24]第四步驟:寫入結束
+[20200720 17:03:49]執行完第四步驟的錯誤為: Table 'UCOM_ED_wash' already exists.,新增失敗
+[20200720 17:03:49]第四步驟:寫入結束
+[20200720 17:04:20]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:04:20]第四步驟:寫入結束
+[20200720 17:06:53]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:06:53]第四步驟:寫入結束
+[20200720 17:13:57]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:13:57]第四步驟:寫入結束
+[20200720 17:15:43]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:15:43]第四步驟:寫入結束
+[20200720 17:21:27]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:21:27]第四步驟:寫入結束
+[20200720 17:24:12]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:24:12]第四步驟:寫入結束
+[20200720 17:38:17]執行完第四步驟時: 新增成功
+[20200720 17:38:17]第四步驟:寫入結束
+[20200720 17:39:27]執行完第四步驟時: 新增成功
+[20200720 17:39:27]第四步驟:寫入結束
+[20200720 17:42:06]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:42:06]第四步驟:寫入結束
+[20200720 17:42:55]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:42:55]第四步驟:寫入結束
+[20200720 17:43:22]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:43:22]第四步驟:寫入結束
+[20200720 17:43:52]執行完第ㄧ步驟的錯誤為: Could not parse rfc1738 URL from string ''mysql+pymysql://'+loguser+':'+logpw+'@'+logip+':3306/'+logdb'
+[20200720 17:46:21]執行完第ㄧ步驟的錯誤為: Could not parse rfc1738 URL from string '"'mysql+pymysql://'+loguser+':'+logpw+'@'+logip+':3306/'+logdb'
+[20200720 17:46:53]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:46:53]第四步驟:寫入結束
+[20200720 17:47:12]執行完第四步驟的錯誤為: Could not parse rfc1738 URL from string 'engine',新增失敗
+[20200720 17:47:12]第四步驟:寫入結束
+[20200720 17:47:44]執行完第四步驟的錯誤為: Could not parse rfc1738 URL from string 'engine',新增失敗
+[20200720 17:47:44]第四步驟:寫入結束
+[20200720 17:58:23]執行完第四步驟的錯誤為: 'DataFrame' object has no attribute 'pd',新增失敗
+[20200720 17:58:23]第四步驟:寫入結束
+[20200720 17:58:40]執行完第四步驟的錯誤為: 'DataFrame' object has no attribute 'io',新增失敗
+[20200720 17:58:40]第四步驟:寫入結束
+[20200720 17:59:05]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 17:59:05]第四步驟:寫入結束
+[20200720 18:02:39]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:02:39]第四步驟:寫入結束
+[20200720 18:02:59]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:02:59]第四步驟:寫入結束
+[20200720 18:03:50]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:03:50]第四步驟:寫入結束
+[20200720 18:04:30]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:04:30]第四步驟:寫入結束
+[20200720 18:08:15]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:08:15]第四步驟:寫入結束
+[20200720 18:09:10]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:09:10]第四步驟:寫入結束
+[20200720 18:10:16]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:10:16]第四步驟:寫入結束
+[20200720 18:12:11]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:12:11]第四步驟:寫入結束
+[20200720 18:17:01]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:17:01]第四步驟:寫入結束
+[20200720 18:30:44]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:30:44]第四步驟:寫入結束
+[20200720 18:30:57]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 18:30:57]第四步驟:寫入結束
+[20200720 20:52:27]執行完第ㄧ步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+[20200720 20:54:58]執行完第ㄧ步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+[20200720 20:55:45]執行完第ㄧ步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+[20200720 20:56:18]執行完第ㄧ步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+[20200720 20:56:52]執行完第ㄧ步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+[20200720 20:57:55]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 20:57:55]第四步驟:寫入結束
+[20200720 20:59:05]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 20:59:05]第四步驟:寫入結束
+[20200720 20:59:52]執行完第四步驟的錯誤為: (pymysql.err.ProgrammingError) (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2")
+[SQL: 
+CREATE TABLE `UCOM_ED_wash` (
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/f405),新增失敗
+[20200720 20:59:52]第四步驟:寫入結束
+[20200720 21:02:40]執行完第四步驟時: 新增成功
+[20200720 21:02:40]第四步驟:寫入結束
+[20200720 21:04:12]執行完第四步驟的錯誤為: [Errno 2] File UCOM_ED_wash.csv does not exist: 'UCOM_ED_wash.csv',新增失敗
+[20200720 21:04:12]第四步驟:寫入結束
+[20200720 21:26:03]執行完第四步驟的錯誤為: [Errno 2] File UCOM_ED_wash.csv does not exist: 'UCOM_ED_wash.csv',新增失敗
+[20200720 21:26:03]第四步驟:寫入結束
+[20200720 21:26:44]執行完第四步驟的錯誤為: (pymysql.err.InternalError) (1366, "Incorrect integer value: '費用：NT$ 50,000' for column 'price' at row 1")
+[SQL: INSERT INTO `UCOM_ED_wash` (today, title, audience, price, hours, purpose, content, during) VALUES (%(today)s, %(title)s, %(audience)s, %(price)s, %(hours)s, %(purpose)s, %(content)s, %(during)s)]
+[parameters: ({'today': '20200720', 'title': 'ISO 27001：2013資訊安全管理系統主導稽核員訓練課程', 'audience': ' 適合對象 1.資訊技術 (IT) 與信息安全 (IS) 相關經理人 2.風險管理相關經理人 3.公司治理、政策制定經理人 4.欲從事ISO 27001諮詢、顧問之人員 5.內部稽核員、電腦稽核員  ', 'price': '費用：NT$ 50,000', 'hours': '時數：40小時', 'purpose': '此課程為「行政院國家資通安全會報」認可之資通安全專業證照 資訊(Information)可說是現今最為重要的無形資產，也是企業成功的基礎與命脈。如何確保客戶與公司內部資訊的安全性、完整性及可用性，是當今最重要的課題之一。資訊安全管理系統(Information Security Managemen ... (243 characters truncated) ... 現追蹤到完成稽核。 3.如何應用管理系統稽核指引 ISO 19011 (與認證規範  ISO 17021) 要求，進行資訊安全管理系統稽核 (包含稽核計畫、執行、報告、發現追蹤到完成稽核)，以確保組織的資訊安全管理系統的有效性，並符合國際標準 ISO 27001 (或 ISO 27002)要求。 ', 'content': '1.資訊安全管理系統要求 (ISO/IEC 27001) 2.資訊安全管理系統要求 (ISO/IEC 27001)、管理系統稽核指引(ISO 19011)、驗證稽核要求 (ISO 17021) 3.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核準備與計畫  4.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核起始會議、執行現場稽核活動、稽核員角色與稽核技巧演練 5.管理系統稽核指引(ISO 19011)-稽核過程演練-稽核結束會議、稽核發現追蹤與認證 ', 'during': "['2020/08/10 ~ 2020/08/14 每週一二三四五', '2020/08/15 ~ 2020/08/23 每週五六日', '2020/08/17 ~ 2020/08/21 每週一二三四五']"}, {'today': '20200720', 'title': 'CompTIA Network＋國際網路認證班', 'audience': ' 適合對象  跨領域學習工作者 對網路安全技術有興趣者 初階系統/網路工程師   ', 'price': '費用：NT$ 45,000', 'hours': '時數：40小時', 'purpose': '資訊與通信科技（Information and Communication Technology，簡稱ICT）日新月異，基於網際網路的新運算方式，無遠弗屆的網際網路，CompTIA Network + 認證課程是國際公認的基礎級計算機網路技能認證，提供您在安裝，配置網路時所需的基本技能和對網路技術進行故障排除的基本原理。藉由本課程您將學習LAN，WAN和無線網絡的不同網路協定和產品的功能，了解TCP / IP定址和協定的功能和特性，識別對網路安全的威脅以及適當的對策和控制，安裝和配置管理網路設備，監視和排除網路故障，增加對網路概念的了解和理解，並獲得所需的技能。 ', 'content': ' Explain the OSI and TCP/IP Models (解釋OSI和TCP/IP模型) Explain properties of network traffic (解釋網路流量的性質) Install and configure switched networks (安裝和配置交 ... (525 characters truncated) ... 線網路技術) Compare and contrast WAN technologies (比較和對比廣域網路技術) Use remote access methods(使用遠端存取方法) Identify site policies and best practices(識別政策和最佳做法)  ', 'during': "['2020/07/27 ~ 2020/07/31 每週一二三四五', '2020/08/15 ~ 2020/08/29 每週六日', '2020/09/21 ~ 2020/09/25 每週一二三四五']"}, {'today': '20200720', 'title': 'CDCP資訊機房管理國際認證班', 'audience': ' 適合對象  資訊機房(Data Center)管理、維護者 資訊機房(Data Center)相關IT人員或是負責營運的人員 資訊部門主管或是相關人員 想取得CDCP國際認證者 學習如何建置符合企業需求資訊機房(Data Center)的人員   ', 'price': '費用：NT$ 60,000', 'hours': '時數：14小時', 'purpose': '現階段大多數企業都建置IT系統，依靠IT提供關鍵服務，因此資訊機房(Data Center)變成每個企業不可或缺的重要單位，更是企業競爭力的必備條件之一。雖然大部分企業都知道資訊機房(Data Center)的重要性，在建置時卻未必能符合需求，不論是可用性、安全性與效率常常無法因應各種需求，更可怕 ... (439 characters truncated) ... 原廠授權教育訓練中心，開辦「CDCP資訊機房管理國際認證班」，課程將帶您理解資訊機房的關鍵組成要素，並教您該如何最佳設置及改善資訊機房，例如：電源、冷卻、電路安全等等，以確保您的資訊機房可以保持運作並符合企業需求，同時課程也會指導您管理資訊機房以及維護上的專業，讓您的資訊機房可以發揮更高的效用。 ', 'content': 'Importance and Causes for Downtime Standards and Best Practices Data Centre Location, Building and Construction •   Selecting appropriate sites and b ... (3031 characters truncated) ... tional Considerations •   Service Level Management •   Organization •   Safety •   Security •   Facilities maintenance •   Monitoring •   Governance ', 'during': "['2020/07/27 ~ 2020/07/28 每週一二', '2020/08/20 ~ 2020/08/21 每週四五', '2020/09/03 ~ 2020/09/04 每週四五']"}, {'today': '20200720', 'title': 'Bootstrap網頁實作PHP Apache商業網站', 'audience': ' 適合對象 有Dreamweaver與Bootstrap使用經驗，希望學會與PHP/MySQL整合使用者  ', 'price': '費用：NT$ 12,000', 'hours': '時數：24小時', 'purpose': 'Dreamweaver CC 2015之後的版本，已將Bootstrap整合為內建功能，因此包括製作Bootstrap相關功能元件也都可以輕鬆由內建介面操作，即可迅速加入各功能元件。 本課主要針對有經驗的網頁設計師所設計，講師不用生硬的程式語法為授課內容，而是教您學會使用現成元件與程式碼片段，學會套用、修改、整合，也可以完成有資料庫功能的互動式Bootstrap響應式網頁結構的購物網站。 這堂課就要教您如何善用現有的模組，以免費的PHP與MySQL為主要程式語法，整合Bootstrap響應式網頁結構，您也可以具備更進階的網頁設計實力。 ', 'content': '1.Bootstrap頁面準備與相關擴充元件應用 1-1.建構Bootstrap頁面 1-2.Bootstrap頁面相關元件使用 1-2.Bootstrap表單元件 1-3.表單檢驗 2.PHP環境設定與MySQL資料庫使用 2-1 PHP環境的安裝與設定 2-2 使用phpMyAdmin建立My ... (275 characters truncated) ... 管理功能頁面 7-1. 商品分類管理 7-2. 商品上架管理頁面 7-3. 新增上架商品頁面 7-4. 客戶訂單管理頁面 8.PHP 網站上線 8-1 申請免費支援PHP 與MySQL 資料庫的網站空間 8-2 使用免費支援PHP 與MySQL 資料庫的網站空間 8-3 整理相關頁面並FTP上傳 ', 'during': "['2020/09/14 ~ 2020/10/07 每週一三', '2020/10/26 ~ 2020/10/29 每週一二三四', '2020/11/14 ~ 2020/11/22 每週六日']"}, {'today': '20200720', 'title': '全方位網路系統工程師就業認證養成班', 'audience': ' 適合對象  電腦、資訊等相關科系畢業生，為獲取更多更深的企業資訊管理知識與取得專業國際認證者 沒有任何資訊技術背景或想轉職進入熱門資訊產業者 從基礎觀念開始導入，適合想打好進入資訊產業的強健體魄者 資訊產業新手，想厚植專業技能，加強自身就業競爭力及提升就業薪資   ', 'price': '費用：NT$ 89,000', 'hours': '時數：560小時', 'purpose': '根據 104 人力銀行「2020 薪酬趨白皮書調查」指出，產業加薪幅度三強分別為： 軟體及網路相關業、金融業、半導體，其中「軟體及網路相關業」調薪幅度最高，平均調薪4.4%居產業之冠，連續三年蟬聯第一。 資訊產業人才需求量大，相較於其他產業，也有較大的調薪幅度以及發展空間，未來前景佳。但萬事起頭難 ... (172 characters truncated) ... 專業講師群親自帶領，幫助您掌握進度並打穩基礎，一步步學習網路伺服器的架設維護、Windows和Linux系統管理建置、Cisco網路通訊管理，以及當紅的Microsoft Azure和Vmware雲端虛擬化管理技術等，並提供認證考試輔導，協助您順利考取國際熱門認證，找工作更有競爭力！結業即就業！ ', 'content': '網路基礎  網路基礎架構與網路服務  Windows系統管理建置  Windows Server 2016的安裝、儲存及運算 Windows Server 2016的網路功能 Windows Server 2016的身分識別 MCSA(Microsoft Certified Solutions A ... (148 characters truncated) ... NA認證-建置與管理Cisco解決方案 CCNA(Cisco Certified Network Associate)認證考試輔導  雲端虛擬化  Microsoft Azure雲端技術入門 VMware虛擬化技術入門  就業前置作業輔導  產業現況分析 履歷撰寫及面試技巧 就業輔導與企業媒合  ', 'during': "['2020/07/31 ~ 2021/01/19 每週一二四五', '2020/11/09 ~ 2021/03/26 每週一二四五']"}, {'today': '20200720', 'title': 'JavaScript程式設計', 'audience': ' 適合對象  想要撰寫或設計網頁的設計師 想要了解用戶端開發技術的程式設計師 想要撰寫網站應用程式的程式設計師   ', 'price': '費用：NT$ 22,000', 'hours': '時數：28小時', 'purpose': '由於網站應用程式的盛行，已經讓JavaScript變成世界最受歡迎的程式語言之一，也是最廣泛使用的用戶端開發語言。本課程適合欲學習純JavaScript程式語言的初學者，了解基本語法和程式架構，以及物件導向的功能，並能透過事件和瀏覽器上的DOM物件進行互動，上完課程後您將可撰寫在瀏覽器上執行的網頁程式。而ECMAScript 2015則是新一代的JavaScript語言標準，前身稱為ECMAScript 6，改善不嚴謹的JavaScript語法，並可運用來撰寫複雜的伺服端企業級應用程式，例如Node.JS。本課程將涵蓋ECMAScript 5與ECMAScript 2015+語法。 ', 'content': ' JavaScript簡介 JavaScript變數宣告方式、變數範圍、程式語法與基本型別 學習程式條件判斷與流程控制語法，了解各種運算子的使用特性，包括數學運算子、比較運算子等，以及JavaScript錯誤處理 撰寫Functions以重複使用程式碼，了解變數生命周期 建立與使用物件，學習陣列、 ... (44 characters truncated) ... th等 物件導向基本觀念的建立，利用Prototype設計繼承與使用類別(Class) 使用JavaScript操作文件物件模型(DOM) 了解DOM事件註冊與處理，並了解如何應用Window、滑鼠、鍵盤、事件、表單等事件 了解JSON資料格式與透過AJAX與Promise設計非同步運作程式碼  ', 'during': "['2020/08/15 ~ 2020/08/23 每週六日', '2020/10/19 ~ 2020/11/11 每週一三', '2020/10/20 ~ 2020/10/23 每週二三四五']"}, {'today': '20200720', 'title': '企業IT服務伺服器架設與選擇方案導覽', 'audience': ' 適合對象  對IT產業有興趣、想從事伺服器管理相關工作者  想學習認識企業建構伺服器有哪些不同的異質平台(如：Windows、Linux、Mac等)可供選擇者   ', 'price': '費用：NT$ 6,000', 'hours': '時數：7小時', 'purpose': 'IT的e化環境，與企業架設伺服器息息相關，這也是企業系統管理員主要的工作內容之一。所以就了解企業的服務需求，在不同的任務導向下，需要建構以下各種伺服器，如：網站伺服器、電子郵件伺服器、檔案伺服器等。而公司的IT政策、IT預算等因素會決定企業依需求建構不同平台的伺服器(如：Windows、Linux ... (61 characters truncated) ... 決策，避免屆時有「買問題進門」的困擾，這是最重要一環。但就系統管理人員，對伺服器的認識廣度與深度，和相關應用面認識也都息息相關。本課程除提供伺服器的相關概念介紹外，也針對部分伺服器建構流程進行依劇本不同的實作演練，期能讓您也能夠對架設伺服器不只有所認知，更能實作，讓概念認知與應用能在本課程結合。 ', 'content': ' 企業常見IT伺服器平台介紹 企業常見IT伺服器應用介紹 File伺服器介紹 Proxy/NAT/Firewall介紹 DNS伺服器介紹 Web伺服器介紹 Mail伺服器介紹 集中驗證伺服器介紹 授權伺服器軟體vs.免費伺服器軟體 Hands on Lab  ', 'during': "['2020/10/30 ~ 2020/10/30 每週五']"}, {'today': '20200720', 'title': 'Power BI Desktop數據分析實戰', 'audience': ' 適合對象  想要深入了解及學習Power BI Desktop技術，以豐富資料分析報表者 數據及報表分析人員 想要學習數據分析及商業思考的使用者 熟悉SQL Server報表的建立者   ', 'price': '費用：NT$ 20,000', 'hours': '時數：21小時', 'purpose': '數據分析已成為目前企業決勝的關鍵，唯有對手上的資料數據了解的越多，我們也才能做的更多及更好。此時便需要一個簡單且有效的工具來協助我們了解手上的資料，可是，有這樣一個大數據分析工具存在嗎？這個問題的答案便是Power BI Desktop。 本課程將會介紹如何使用Power BI Desktop擷取各種資料來源中的數據進行清洗及重塑的工作，並將資料載入資料模型進行加值處理及計算，以提高資料儲存及檢索之效能，最後以視覺化的表格、圖表及地圖來反應資料內容與關聯性，使得企業主可快速得到心中疑問的解答，並從大數據中找到提升企業競爭力的商機。 ', 'content': ' Power BI產品組合介紹 Power BI Desktop的下載與安裝 Power BI Desktop資料的匯入  A.  不同資料格式的匯入及合併 B.  彙整資料夾中多個相同格式的資料檔 C.  資料的清理、淨化、重塑及轉換 D.  資料表間的合併及附加處理 E.  查詢步驟的組態與調 ... (215 characters truncated) ... 式視覺化儀表板 B.  各項視覺化效果(表格、圖表、地圖......)的運用搭配介紹 C.  各項視覺化效果的細部組態 D.  視覺化效果的進階分析設定 E.  使用書籤串連數據解析及建立故事 F.  自訂視覺化效果的匯入及運用  發佈Power BI Desktop報表至Power BI服務  ', 'during': "['2020/08/03 ~ 2020/08/05 每週一二三', '2020/10/31 ~ 2020/11/07 每週六日', '2020/11/16 ~ 2020/11/18 每週一二三']"}  ... displaying 10 of 44 total bound parameter sets ...  {'today': '20200720', 'title': 'ISO 27001：2013資訊安全管理系統主導稽核員訓練課程', 'audience': ' 適合對象 1.資訊技術 (IT) 與信息安全 (IS) 相關經理人 2.風險管理相關經理人 3.公司治理、政策制定經理人 4.欲從事ISO 27001諮詢、顧問之人員 5.內部稽核員、電腦稽核員  ', 'price': '費用：NT$ 50,000', 'hours': '時數：40小時', 'purpose': '此課程為「行政院國家資通安全會報」認可之資通安全專業證照 資訊(Information)可說是現今最為重要的無形資產，也是企業成功的基礎與命脈。如何確保客戶與公司內部資訊的安全性、完整性及可用性，是當今最重要的課題之一。資訊安全管理系統(Information Security Managemen ... (243 characters truncated) ... 現追蹤到完成稽核。 3.如何應用管理系統稽核指引 ISO 19011 (與認證規範  ISO 17021) 要求，進行資訊安全管理系統稽核 (包含稽核計畫、執行、報告、發現追蹤到完成稽核)，以確保組織的資訊安全管理系統的有效性，並符合國際標準 ISO 27001 (或 ISO 27002)要求。 ', 'content': '1.資訊安全管理系統要求 (ISO/IEC 27001) 2.資訊安全管理系統要求 (ISO/IEC 27001)、管理系統稽核指引(ISO 19011)、驗證稽核要求 (ISO 17021) 3.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核準備與計畫  4.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核起始會議、執行現場稽核活動、稽核員角色與稽核技巧演練 5.管理系統稽核指引(ISO 19011)-稽核過程演練-稽核結束會議、稽核發現追蹤與認證 ', 'during': "['2020/08/10 ~ 2020/08/14 每週一二三四五', '2020/08/15 ~ 2020/08/23 每週五六日', '2020/08/17 ~ 2020/08/21 每週一二三四五']"}, {'today': '20200720', 'title': 'Dreamweaver專業網頁編輯應用', 'audience': ' 適合對象 欲學習專業網站建置與編輯應用者  ', 'price': '費用：NT$ 8,400', 'hours': '時數：24小時', 'purpose': '本課程將學習如何從網頁的基礎內容編輯開始，進行HTML檔案格式的編排與設計，了解網頁格式的特殊性，以及如何完成網站架構規劃，使用免費的網頁空間完成網站架設，對於之前從沒有學過網頁設計的人來說，這一門課程可以讓您學到最實用的網頁設計技巧，並為進階的CSS排版，及HTML5等新技術打好基礎。 學會了網 ... (109 characters truncated) ... iv)應用，讓您的網站開始有互動功能，包括以滑鼠開關顯示隱藏頁面內容、拖曳頁面內容等，加上以實際完整網站建置範例，讓您即學即用，開心完成專業網站設計的第一步。 最後本課程也將讓您開始接觸下一階段的網頁專業，即是CSS的使用，先輕鬆跟CSS第一類接觸，嘗試開始使用CSS，做好學習CSS排版的準備。 ', 'content': '1.網站定義與基本操作  1-1網頁檔案基本規則 1-2 定義網站 1-3 檔案基本操作 1-4 網頁文字資料 1-5 空白字元 1-6 清單 1-7 頁面屬性 1-8 插入影像 1-9 滑鼠互動影像 1-10 文字與影像排版 2.網頁影像與Photoshop快速整合     2-1 網頁影像格式 ... (496 characters truncated) ...  整合AP元素控制-互動產品說明 6-8 jQuery效果 6-9 覆蓋版面廣告的效果應用  CSS基礎 7-1 如何開始設定CSS 7-2 CSS設定文字屬性 7-3 CSS設定背景圖 7-4 類別選取器控制頁面內容設定 7-5 CSS基礎圖文編排  *附錄 / 申請免費網站空間與上傳發佈網站 ', 'during': "['2020/09/07 ~ 2020/09/10 每週一二三四五', '2020/10/19 ~ 2020/11/11 每週一三', '2020/11/30 ~ 2020/12/03 每週一二三四五']"})]
+(Background on this error at: http://sqlalche.me/e/2j85),新增失敗
+[20200720 21:26:44]第四步驟:寫入結束
+[20200720 21:29:59]執行完第四步驟的錯誤為: (pymysql.err.InternalError) (1366, "Incorrect integer value: '費用：NT$ 50,000' for column 'price' at row 1")
+[SQL: INSERT INTO `UCOM_ED_wash` (today, title, audience, price, hours, purpose, content, during) VALUES (%(today)s, %(title)s, %(audience)s, %(price)s, %(hours)s, %(purpose)s, %(content)s, %(during)s)]
+[parameters: ({'today': '20200720', 'title': 'ISO 27001：2013資訊安全管理系統主導稽核員訓練課程', 'audience': ' 適合對象 1.資訊技術 (IT) 與信息安全 (IS) 相關經理人 2.風險管理相關經理人 3.公司治理、政策制定經理人 4.欲從事ISO 27001諮詢、顧問之人員 5.內部稽核員、電腦稽核員  ', 'price': '費用：NT$ 50,000', 'hours': '時數：40小時', 'purpose': '此課程為「行政院國家資通安全會報」認可之資通安全專業證照 資訊(Information)可說是現今最為重要的無形資產，也是企業成功的基礎與命脈。如何確保客戶與公司內部資訊的安全性、完整性及可用性，是當今最重要的課題之一。資訊安全管理系統(Information Security Managemen ... (243 characters truncated) ... 現追蹤到完成稽核。 3.如何應用管理系統稽核指引 ISO 19011 (與認證規範  ISO 17021) 要求，進行資訊安全管理系統稽核 (包含稽核計畫、執行、報告、發現追蹤到完成稽核)，以確保組織的資訊安全管理系統的有效性，並符合國際標準 ISO 27001 (或 ISO 27002)要求。 ', 'content': '1.資訊安全管理系統要求 (ISO/IEC 27001) 2.資訊安全管理系統要求 (ISO/IEC 27001)、管理系統稽核指引(ISO 19011)、驗證稽核要求 (ISO 17021) 3.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核準備與計畫  4.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核起始會議、執行現場稽核活動、稽核員角色與稽核技巧演練 5.管理系統稽核指引(ISO 19011)-稽核過程演練-稽核結束會議、稽核發現追蹤與認證 ', 'during': "['2020/08/10 ~ 2020/08/14 每週一二三四五', '2020/08/15 ~ 2020/08/23 每週五六日', '2020/08/17 ~ 2020/08/21 每週一二三四五']"}, {'today': '20200720', 'title': 'CompTIA Network＋國際網路認證班', 'audience': ' 適合對象  跨領域學習工作者 對網路安全技術有興趣者 初階系統/網路工程師   ', 'price': '費用：NT$ 45,000', 'hours': '時數：40小時', 'purpose': '資訊與通信科技（Information and Communication Technology，簡稱ICT）日新月異，基於網際網路的新運算方式，無遠弗屆的網際網路，CompTIA Network + 認證課程是國際公認的基礎級計算機網路技能認證，提供您在安裝，配置網路時所需的基本技能和對網路技術進行故障排除的基本原理。藉由本課程您將學習LAN，WAN和無線網絡的不同網路協定和產品的功能，了解TCP / IP定址和協定的功能和特性，識別對網路安全的威脅以及適當的對策和控制，安裝和配置管理網路設備，監視和排除網路故障，增加對網路概念的了解和理解，並獲得所需的技能。 ', 'content': ' Explain the OSI and TCP/IP Models (解釋OSI和TCP/IP模型) Explain properties of network traffic (解釋網路流量的性質) Install and configure switched networks (安裝和配置交 ... (525 characters truncated) ... 線網路技術) Compare and contrast WAN technologies (比較和對比廣域網路技術) Use remote access methods(使用遠端存取方法) Identify site policies and best practices(識別政策和最佳做法)  ', 'during': "['2020/07/27 ~ 2020/07/31 每週一二三四五', '2020/08/15 ~ 2020/08/29 每週六日', '2020/09/21 ~ 2020/09/25 每週一二三四五']"}, {'today': '20200720', 'title': 'CDCP資訊機房管理國際認證班', 'audience': ' 適合對象  資訊機房(Data Center)管理、維護者 資訊機房(Data Center)相關IT人員或是負責營運的人員 資訊部門主管或是相關人員 想取得CDCP國際認證者 學習如何建置符合企業需求資訊機房(Data Center)的人員   ', 'price': '費用：NT$ 60,000', 'hours': '時數：14小時', 'purpose': '現階段大多數企業都建置IT系統，依靠IT提供關鍵服務，因此資訊機房(Data Center)變成每個企業不可或缺的重要單位，更是企業競爭力的必備條件之一。雖然大部分企業都知道資訊機房(Data Center)的重要性，在建置時卻未必能符合需求，不論是可用性、安全性與效率常常無法因應各種需求，更可怕 ... (439 characters truncated) ... 原廠授權教育訓練中心，開辦「CDCP資訊機房管理國際認證班」，課程將帶您理解資訊機房的關鍵組成要素，並教您該如何最佳設置及改善資訊機房，例如：電源、冷卻、電路安全等等，以確保您的資訊機房可以保持運作並符合企業需求，同時課程也會指導您管理資訊機房以及維護上的專業，讓您的資訊機房可以發揮更高的效用。 ', 'content': 'Importance and Causes for Downtime Standards and Best Practices Data Centre Location, Building and Construction •   Selecting appropriate sites and b ... (3031 characters truncated) ... tional Considerations •   Service Level Management •   Organization •   Safety •   Security •   Facilities maintenance •   Monitoring •   Governance ', 'during': "['2020/07/27 ~ 2020/07/28 每週一二', '2020/08/20 ~ 2020/08/21 每週四五', '2020/09/03 ~ 2020/09/04 每週四五']"}, {'today': '20200720', 'title': 'Bootstrap網頁實作PHP Apache商業網站', 'audience': ' 適合對象 有Dreamweaver與Bootstrap使用經驗，希望學會與PHP/MySQL整合使用者  ', 'price': '費用：NT$ 12,000', 'hours': '時數：24小時', 'purpose': 'Dreamweaver CC 2015之後的版本，已將Bootstrap整合為內建功能，因此包括製作Bootstrap相關功能元件也都可以輕鬆由內建介面操作，即可迅速加入各功能元件。 本課主要針對有經驗的網頁設計師所設計，講師不用生硬的程式語法為授課內容，而是教您學會使用現成元件與程式碼片段，學會套用、修改、整合，也可以完成有資料庫功能的互動式Bootstrap響應式網頁結構的購物網站。 這堂課就要教您如何善用現有的模組，以免費的PHP與MySQL為主要程式語法，整合Bootstrap響應式網頁結構，您也可以具備更進階的網頁設計實力。 ', 'content': '1.Bootstrap頁面準備與相關擴充元件應用 1-1.建構Bootstrap頁面 1-2.Bootstrap頁面相關元件使用 1-2.Bootstrap表單元件 1-3.表單檢驗 2.PHP環境設定與MySQL資料庫使用 2-1 PHP環境的安裝與設定 2-2 使用phpMyAdmin建立My ... (275 characters truncated) ... 管理功能頁面 7-1. 商品分類管理 7-2. 商品上架管理頁面 7-3. 新增上架商品頁面 7-4. 客戶訂單管理頁面 8.PHP 網站上線 8-1 申請免費支援PHP 與MySQL 資料庫的網站空間 8-2 使用免費支援PHP 與MySQL 資料庫的網站空間 8-3 整理相關頁面並FTP上傳 ', 'during': "['2020/09/14 ~ 2020/10/07 每週一三', '2020/10/26 ~ 2020/10/29 每週一二三四', '2020/11/14 ~ 2020/11/22 每週六日']"}, {'today': '20200720', 'title': '全方位網路系統工程師就業認證養成班', 'audience': ' 適合對象  電腦、資訊等相關科系畢業生，為獲取更多更深的企業資訊管理知識與取得專業國際認證者 沒有任何資訊技術背景或想轉職進入熱門資訊產業者 從基礎觀念開始導入，適合想打好進入資訊產業的強健體魄者 資訊產業新手，想厚植專業技能，加強自身就業競爭力及提升就業薪資   ', 'price': '費用：NT$ 89,000', 'hours': '時數：560小時', 'purpose': '根據 104 人力銀行「2020 薪酬趨白皮書調查」指出，產業加薪幅度三強分別為： 軟體及網路相關業、金融業、半導體，其中「軟體及網路相關業」調薪幅度最高，平均調薪4.4%居產業之冠，連續三年蟬聯第一。 資訊產業人才需求量大，相較於其他產業，也有較大的調薪幅度以及發展空間，未來前景佳。但萬事起頭難 ... (172 characters truncated) ... 專業講師群親自帶領，幫助您掌握進度並打穩基礎，一步步學習網路伺服器的架設維護、Windows和Linux系統管理建置、Cisco網路通訊管理，以及當紅的Microsoft Azure和Vmware雲端虛擬化管理技術等，並提供認證考試輔導，協助您順利考取國際熱門認證，找工作更有競爭力！結業即就業！ ', 'content': '網路基礎  網路基礎架構與網路服務  Windows系統管理建置  Windows Server 2016的安裝、儲存及運算 Windows Server 2016的網路功能 Windows Server 2016的身分識別 MCSA(Microsoft Certified Solutions A ... (148 characters truncated) ... NA認證-建置與管理Cisco解決方案 CCNA(Cisco Certified Network Associate)認證考試輔導  雲端虛擬化  Microsoft Azure雲端技術入門 VMware虛擬化技術入門  就業前置作業輔導  產業現況分析 履歷撰寫及面試技巧 就業輔導與企業媒合  ', 'during': "['2020/07/31 ~ 2021/01/19 每週一二四五', '2020/11/09 ~ 2021/03/26 每週一二四五']"}, {'today': '20200720', 'title': 'JavaScript程式設計', 'audience': ' 適合對象  想要撰寫或設計網頁的設計師 想要了解用戶端開發技術的程式設計師 想要撰寫網站應用程式的程式設計師   ', 'price': '費用：NT$ 22,000', 'hours': '時數：28小時', 'purpose': '由於網站應用程式的盛行，已經讓JavaScript變成世界最受歡迎的程式語言之一，也是最廣泛使用的用戶端開發語言。本課程適合欲學習純JavaScript程式語言的初學者，了解基本語法和程式架構，以及物件導向的功能，並能透過事件和瀏覽器上的DOM物件進行互動，上完課程後您將可撰寫在瀏覽器上執行的網頁程式。而ECMAScript 2015則是新一代的JavaScript語言標準，前身稱為ECMAScript 6，改善不嚴謹的JavaScript語法，並可運用來撰寫複雜的伺服端企業級應用程式，例如Node.JS。本課程將涵蓋ECMAScript 5與ECMAScript 2015+語法。 ', 'content': ' JavaScript簡介 JavaScript變數宣告方式、變數範圍、程式語法與基本型別 學習程式條件判斷與流程控制語法，了解各種運算子的使用特性，包括數學運算子、比較運算子等，以及JavaScript錯誤處理 撰寫Functions以重複使用程式碼，了解變數生命周期 建立與使用物件，學習陣列、 ... (44 characters truncated) ... th等 物件導向基本觀念的建立，利用Prototype設計繼承與使用類別(Class) 使用JavaScript操作文件物件模型(DOM) 了解DOM事件註冊與處理，並了解如何應用Window、滑鼠、鍵盤、事件、表單等事件 了解JSON資料格式與透過AJAX與Promise設計非同步運作程式碼  ', 'during': "['2020/08/15 ~ 2020/08/23 每週六日', '2020/10/19 ~ 2020/11/11 每週一三', '2020/10/20 ~ 2020/10/23 每週二三四五']"}, {'today': '20200720', 'title': '企業IT服務伺服器架設與選擇方案導覽', 'audience': ' 適合對象  對IT產業有興趣、想從事伺服器管理相關工作者  想學習認識企業建構伺服器有哪些不同的異質平台(如：Windows、Linux、Mac等)可供選擇者   ', 'price': '費用：NT$ 6,000', 'hours': '時數：7小時', 'purpose': 'IT的e化環境，與企業架設伺服器息息相關，這也是企業系統管理員主要的工作內容之一。所以就了解企業的服務需求，在不同的任務導向下，需要建構以下各種伺服器，如：網站伺服器、電子郵件伺服器、檔案伺服器等。而公司的IT政策、IT預算等因素會決定企業依需求建構不同平台的伺服器(如：Windows、Linux ... (61 characters truncated) ... 決策，避免屆時有「買問題進門」的困擾，這是最重要一環。但就系統管理人員，對伺服器的認識廣度與深度，和相關應用面認識也都息息相關。本課程除提供伺服器的相關概念介紹外，也針對部分伺服器建構流程進行依劇本不同的實作演練，期能讓您也能夠對架設伺服器不只有所認知，更能實作，讓概念認知與應用能在本課程結合。 ', 'content': ' 企業常見IT伺服器平台介紹 企業常見IT伺服器應用介紹 File伺服器介紹 Proxy/NAT/Firewall介紹 DNS伺服器介紹 Web伺服器介紹 Mail伺服器介紹 集中驗證伺服器介紹 授權伺服器軟體vs.免費伺服器軟體 Hands on Lab  ', 'during': "['2020/10/30 ~ 2020/10/30 每週五']"}, {'today': '20200720', 'title': 'Power BI Desktop數據分析實戰', 'audience': ' 適合對象  想要深入了解及學習Power BI Desktop技術，以豐富資料分析報表者 數據及報表分析人員 想要學習數據分析及商業思考的使用者 熟悉SQL Server報表的建立者   ', 'price': '費用：NT$ 20,000', 'hours': '時數：21小時', 'purpose': '數據分析已成為目前企業決勝的關鍵，唯有對手上的資料數據了解的越多，我們也才能做的更多及更好。此時便需要一個簡單且有效的工具來協助我們了解手上的資料，可是，有這樣一個大數據分析工具存在嗎？這個問題的答案便是Power BI Desktop。 本課程將會介紹如何使用Power BI Desktop擷取各種資料來源中的數據進行清洗及重塑的工作，並將資料載入資料模型進行加值處理及計算，以提高資料儲存及檢索之效能，最後以視覺化的表格、圖表及地圖來反應資料內容與關聯性，使得企業主可快速得到心中疑問的解答，並從大數據中找到提升企業競爭力的商機。 ', 'content': ' Power BI產品組合介紹 Power BI Desktop的下載與安裝 Power BI Desktop資料的匯入  A.  不同資料格式的匯入及合併 B.  彙整資料夾中多個相同格式的資料檔 C.  資料的清理、淨化、重塑及轉換 D.  資料表間的合併及附加處理 E.  查詢步驟的組態與調 ... (215 characters truncated) ... 式視覺化儀表板 B.  各項視覺化效果(表格、圖表、地圖......)的運用搭配介紹 C.  各項視覺化效果的細部組態 D.  視覺化效果的進階分析設定 E.  使用書籤串連數據解析及建立故事 F.  自訂視覺化效果的匯入及運用  發佈Power BI Desktop報表至Power BI服務  ', 'during': "['2020/08/03 ~ 2020/08/05 每週一二三', '2020/10/31 ~ 2020/11/07 每週六日', '2020/11/16 ~ 2020/11/18 每週一二三']"}  ... displaying 10 of 44 total bound parameter sets ...  {'today': '20200720', 'title': 'ISO 27001：2013資訊安全管理系統主導稽核員訓練課程', 'audience': ' 適合對象 1.資訊技術 (IT) 與信息安全 (IS) 相關經理人 2.風險管理相關經理人 3.公司治理、政策制定經理人 4.欲從事ISO 27001諮詢、顧問之人員 5.內部稽核員、電腦稽核員  ', 'price': '費用：NT$ 50,000', 'hours': '時數：40小時', 'purpose': '此課程為「行政院國家資通安全會報」認可之資通安全專業證照 資訊(Information)可說是現今最為重要的無形資產，也是企業成功的基礎與命脈。如何確保客戶與公司內部資訊的安全性、完整性及可用性，是當今最重要的課題之一。資訊安全管理系統(Information Security Managemen ... (243 characters truncated) ... 現追蹤到完成稽核。 3.如何應用管理系統稽核指引 ISO 19011 (與認證規範  ISO 17021) 要求，進行資訊安全管理系統稽核 (包含稽核計畫、執行、報告、發現追蹤到完成稽核)，以確保組織的資訊安全管理系統的有效性，並符合國際標準 ISO 27001 (或 ISO 27002)要求。 ', 'content': '1.資訊安全管理系統要求 (ISO/IEC 27001) 2.資訊安全管理系統要求 (ISO/IEC 27001)、管理系統稽核指引(ISO 19011)、驗證稽核要求 (ISO 17021) 3.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核準備與計畫  4.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核起始會議、執行現場稽核活動、稽核員角色與稽核技巧演練 5.管理系統稽核指引(ISO 19011)-稽核過程演練-稽核結束會議、稽核發現追蹤與認證 ', 'during': "['2020/08/10 ~ 2020/08/14 每週一二三四五', '2020/08/15 ~ 2020/08/23 每週五六日', '2020/08/17 ~ 2020/08/21 每週一二三四五']"}, {'today': '20200720', 'title': 'Dreamweaver專業網頁編輯應用', 'audience': ' 適合對象 欲學習專業網站建置與編輯應用者  ', 'price': '費用：NT$ 8,400', 'hours': '時數：24小時', 'purpose': '本課程將學習如何從網頁的基礎內容編輯開始，進行HTML檔案格式的編排與設計，了解網頁格式的特殊性，以及如何完成網站架構規劃，使用免費的網頁空間完成網站架設，對於之前從沒有學過網頁設計的人來說，這一門課程可以讓您學到最實用的網頁設計技巧，並為進階的CSS排版，及HTML5等新技術打好基礎。 學會了網 ... (109 characters truncated) ... iv)應用，讓您的網站開始有互動功能，包括以滑鼠開關顯示隱藏頁面內容、拖曳頁面內容等，加上以實際完整網站建置範例，讓您即學即用，開心完成專業網站設計的第一步。 最後本課程也將讓您開始接觸下一階段的網頁專業，即是CSS的使用，先輕鬆跟CSS第一類接觸，嘗試開始使用CSS，做好學習CSS排版的準備。 ', 'content': '1.網站定義與基本操作  1-1網頁檔案基本規則 1-2 定義網站 1-3 檔案基本操作 1-4 網頁文字資料 1-5 空白字元 1-6 清單 1-7 頁面屬性 1-8 插入影像 1-9 滑鼠互動影像 1-10 文字與影像排版 2.網頁影像與Photoshop快速整合     2-1 網頁影像格式 ... (496 characters truncated) ...  整合AP元素控制-互動產品說明 6-8 jQuery效果 6-9 覆蓋版面廣告的效果應用  CSS基礎 7-1 如何開始設定CSS 7-2 CSS設定文字屬性 7-3 CSS設定背景圖 7-4 類別選取器控制頁面內容設定 7-5 CSS基礎圖文編排  *附錄 / 申請免費網站空間與上傳發佈網站 ', 'during': "['2020/09/07 ~ 2020/09/10 每週一二三四五', '2020/10/19 ~ 2020/11/11 每週一三', '2020/11/30 ~ 2020/12/03 每週一二三四五']"})]
+(Background on this error at: http://sqlalche.me/e/2j85),新增失敗
+[20200720 21:29:59]第四步驟:寫入結束
+[20200720 21:35:54]執行完第四步驟的錯誤為: (pymysql.err.InternalError) (1366, "Incorrect integer value: '費用：NT$ 50,000' for column 'price' at row 1")
+[SQL: INSERT INTO `UCOM_ED_wash` (today, title, audience, price, hours, purpose, content, during) VALUES (%(today)s, %(title)s, %(audience)s, %(price)s, %(hours)s, %(purpose)s, %(content)s, %(during)s)]
+[parameters: ({'today': '20200720', 'title': 'ISO 27001：2013資訊安全管理系統主導稽核員訓練課程', 'audience': ' 適合對象 1.資訊技術 (IT) 與信息安全 (IS) 相關經理人 2.風險管理相關經理人 3.公司治理、政策制定經理人 4.欲從事ISO 27001諮詢、顧問之人員 5.內部稽核員、電腦稽核員  ', 'price': '費用：NT$ 50,000', 'hours': '時數：40小時', 'purpose': '此課程為「行政院國家資通安全會報」認可之資通安全專業證照 資訊(Information)可說是現今最為重要的無形資產，也是企業成功的基礎與命脈。如何確保客戶與公司內部資訊的安全性、完整性及可用性，是當今最重要的課題之一。資訊安全管理系統(Information Security Managemen ... (243 characters truncated) ... 現追蹤到完成稽核。 3.如何應用管理系統稽核指引 ISO 19011 (與認證規範  ISO 17021) 要求，進行資訊安全管理系統稽核 (包含稽核計畫、執行、報告、發現追蹤到完成稽核)，以確保組織的資訊安全管理系統的有效性，並符合國際標準 ISO 27001 (或 ISO 27002)要求。 ', 'content': '1.資訊安全管理系統要求 (ISO/IEC 27001) 2.資訊安全管理系統要求 (ISO/IEC 27001)、管理系統稽核指引(ISO 19011)、驗證稽核要求 (ISO 17021) 3.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核準備與計畫  4.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核起始會議、執行現場稽核活動、稽核員角色與稽核技巧演練 5.管理系統稽核指引(ISO 19011)-稽核過程演練-稽核結束會議、稽核發現追蹤與認證 ', 'during': "['2020/08/10 ~ 2020/08/14 每週一二三四五', '2020/08/15 ~ 2020/08/23 每週五六日', '2020/08/17 ~ 2020/08/21 每週一二三四五']"}, {'today': '20200720', 'title': 'CompTIA Network＋國際網路認證班', 'audience': ' 適合對象  跨領域學習工作者 對網路安全技術有興趣者 初階系統/網路工程師   ', 'price': '費用：NT$ 45,000', 'hours': '時數：40小時', 'purpose': '資訊與通信科技（Information and Communication Technology，簡稱ICT）日新月異，基於網際網路的新運算方式，無遠弗屆的網際網路，CompTIA Network + 認證課程是國際公認的基礎級計算機網路技能認證，提供您在安裝，配置網路時所需的基本技能和對網路技術進行故障排除的基本原理。藉由本課程您將學習LAN，WAN和無線網絡的不同網路協定和產品的功能，了解TCP / IP定址和協定的功能和特性，識別對網路安全的威脅以及適當的對策和控制，安裝和配置管理網路設備，監視和排除網路故障，增加對網路概念的了解和理解，並獲得所需的技能。 ', 'content': ' Explain the OSI and TCP/IP Models (解釋OSI和TCP/IP模型) Explain properties of network traffic (解釋網路流量的性質) Install and configure switched networks (安裝和配置交 ... (525 characters truncated) ... 線網路技術) Compare and contrast WAN technologies (比較和對比廣域網路技術) Use remote access methods(使用遠端存取方法) Identify site policies and best practices(識別政策和最佳做法)  ', 'during': "['2020/07/27 ~ 2020/07/31 每週一二三四五', '2020/08/15 ~ 2020/08/29 每週六日', '2020/09/21 ~ 2020/09/25 每週一二三四五']"}, {'today': '20200720', 'title': 'CDCP資訊機房管理國際認證班', 'audience': ' 適合對象  資訊機房(Data Center)管理、維護者 資訊機房(Data Center)相關IT人員或是負責營運的人員 資訊部門主管或是相關人員 想取得CDCP國際認證者 學習如何建置符合企業需求資訊機房(Data Center)的人員   ', 'price': '費用：NT$ 60,000', 'hours': '時數：14小時', 'purpose': '現階段大多數企業都建置IT系統，依靠IT提供關鍵服務，因此資訊機房(Data Center)變成每個企業不可或缺的重要單位，更是企業競爭力的必備條件之一。雖然大部分企業都知道資訊機房(Data Center)的重要性，在建置時卻未必能符合需求，不論是可用性、安全性與效率常常無法因應各種需求，更可怕 ... (439 characters truncated) ... 原廠授權教育訓練中心，開辦「CDCP資訊機房管理國際認證班」，課程將帶您理解資訊機房的關鍵組成要素，並教您該如何最佳設置及改善資訊機房，例如：電源、冷卻、電路安全等等，以確保您的資訊機房可以保持運作並符合企業需求，同時課程也會指導您管理資訊機房以及維護上的專業，讓您的資訊機房可以發揮更高的效用。 ', 'content': 'Importance and Causes for Downtime Standards and Best Practices Data Centre Location, Building and Construction •   Selecting appropriate sites and b ... (3031 characters truncated) ... tional Considerations •   Service Level Management •   Organization •   Safety •   Security •   Facilities maintenance •   Monitoring •   Governance ', 'during': "['2020/07/27 ~ 2020/07/28 每週一二', '2020/08/20 ~ 2020/08/21 每週四五', '2020/09/03 ~ 2020/09/04 每週四五']"}, {'today': '20200720', 'title': 'Bootstrap網頁實作PHP Apache商業網站', 'audience': ' 適合對象 有Dreamweaver與Bootstrap使用經驗，希望學會與PHP/MySQL整合使用者  ', 'price': '費用：NT$ 12,000', 'hours': '時數：24小時', 'purpose': 'Dreamweaver CC 2015之後的版本，已將Bootstrap整合為內建功能，因此包括製作Bootstrap相關功能元件也都可以輕鬆由內建介面操作，即可迅速加入各功能元件。 本課主要針對有經驗的網頁設計師所設計，講師不用生硬的程式語法為授課內容，而是教您學會使用現成元件與程式碼片段，學會套用、修改、整合，也可以完成有資料庫功能的互動式Bootstrap響應式網頁結構的購物網站。 這堂課就要教您如何善用現有的模組，以免費的PHP與MySQL為主要程式語法，整合Bootstrap響應式網頁結構，您也可以具備更進階的網頁設計實力。 ', 'content': '1.Bootstrap頁面準備與相關擴充元件應用 1-1.建構Bootstrap頁面 1-2.Bootstrap頁面相關元件使用 1-2.Bootstrap表單元件 1-3.表單檢驗 2.PHP環境設定與MySQL資料庫使用 2-1 PHP環境的安裝與設定 2-2 使用phpMyAdmin建立My ... (275 characters truncated) ... 管理功能頁面 7-1. 商品分類管理 7-2. 商品上架管理頁面 7-3. 新增上架商品頁面 7-4. 客戶訂單管理頁面 8.PHP 網站上線 8-1 申請免費支援PHP 與MySQL 資料庫的網站空間 8-2 使用免費支援PHP 與MySQL 資料庫的網站空間 8-3 整理相關頁面並FTP上傳 ', 'during': "['2020/09/14 ~ 2020/10/07 每週一三', '2020/10/26 ~ 2020/10/29 每週一二三四', '2020/11/14 ~ 2020/11/22 每週六日']"}, {'today': '20200720', 'title': '全方位網路系統工程師就業認證養成班', 'audience': ' 適合對象  電腦、資訊等相關科系畢業生，為獲取更多更深的企業資訊管理知識與取得專業國際認證者 沒有任何資訊技術背景或想轉職進入熱門資訊產業者 從基礎觀念開始導入，適合想打好進入資訊產業的強健體魄者 資訊產業新手，想厚植專業技能，加強自身就業競爭力及提升就業薪資   ', 'price': '費用：NT$ 89,000', 'hours': '時數：560小時', 'purpose': '根據 104 人力銀行「2020 薪酬趨白皮書調查」指出，產業加薪幅度三強分別為： 軟體及網路相關業、金融業、半導體，其中「軟體及網路相關業」調薪幅度最高，平均調薪4.4%居產業之冠，連續三年蟬聯第一。 資訊產業人才需求量大，相較於其他產業，也有較大的調薪幅度以及發展空間，未來前景佳。但萬事起頭難 ... (172 characters truncated) ... 專業講師群親自帶領，幫助您掌握進度並打穩基礎，一步步學習網路伺服器的架設維護、Windows和Linux系統管理建置、Cisco網路通訊管理，以及當紅的Microsoft Azure和Vmware雲端虛擬化管理技術等，並提供認證考試輔導，協助您順利考取國際熱門認證，找工作更有競爭力！結業即就業！ ', 'content': '網路基礎  網路基礎架構與網路服務  Windows系統管理建置  Windows Server 2016的安裝、儲存及運算 Windows Server 2016的網路功能 Windows Server 2016的身分識別 MCSA(Microsoft Certified Solutions A ... (148 characters truncated) ... NA認證-建置與管理Cisco解決方案 CCNA(Cisco Certified Network Associate)認證考試輔導  雲端虛擬化  Microsoft Azure雲端技術入門 VMware虛擬化技術入門  就業前置作業輔導  產業現況分析 履歷撰寫及面試技巧 就業輔導與企業媒合  ', 'during': "['2020/07/31 ~ 2021/01/19 每週一二四五', '2020/11/09 ~ 2021/03/26 每週一二四五']"}, {'today': '20200720', 'title': 'JavaScript程式設計', 'audience': ' 適合對象  想要撰寫或設計網頁的設計師 想要了解用戶端開發技術的程式設計師 想要撰寫網站應用程式的程式設計師   ', 'price': '費用：NT$ 22,000', 'hours': '時數：28小時', 'purpose': '由於網站應用程式的盛行，已經讓JavaScript變成世界最受歡迎的程式語言之一，也是最廣泛使用的用戶端開發語言。本課程適合欲學習純JavaScript程式語言的初學者，了解基本語法和程式架構，以及物件導向的功能，並能透過事件和瀏覽器上的DOM物件進行互動，上完課程後您將可撰寫在瀏覽器上執行的網頁程式。而ECMAScript 2015則是新一代的JavaScript語言標準，前身稱為ECMAScript 6，改善不嚴謹的JavaScript語法，並可運用來撰寫複雜的伺服端企業級應用程式，例如Node.JS。本課程將涵蓋ECMAScript 5與ECMAScript 2015+語法。 ', 'content': ' JavaScript簡介 JavaScript變數宣告方式、變數範圍、程式語法與基本型別 學習程式條件判斷與流程控制語法，了解各種運算子的使用特性，包括數學運算子、比較運算子等，以及JavaScript錯誤處理 撰寫Functions以重複使用程式碼，了解變數生命周期 建立與使用物件，學習陣列、 ... (44 characters truncated) ... th等 物件導向基本觀念的建立，利用Prototype設計繼承與使用類別(Class) 使用JavaScript操作文件物件模型(DOM) 了解DOM事件註冊與處理，並了解如何應用Window、滑鼠、鍵盤、事件、表單等事件 了解JSON資料格式與透過AJAX與Promise設計非同步運作程式碼  ', 'during': "['2020/08/15 ~ 2020/08/23 每週六日', '2020/10/19 ~ 2020/11/11 每週一三', '2020/10/20 ~ 2020/10/23 每週二三四五']"}, {'today': '20200720', 'title': '企業IT服務伺服器架設與選擇方案導覽', 'audience': ' 適合對象  對IT產業有興趣、想從事伺服器管理相關工作者  想學習認識企業建構伺服器有哪些不同的異質平台(如：Windows、Linux、Mac等)可供選擇者   ', 'price': '費用：NT$ 6,000', 'hours': '時數：7小時', 'purpose': 'IT的e化環境，與企業架設伺服器息息相關，這也是企業系統管理員主要的工作內容之一。所以就了解企業的服務需求，在不同的任務導向下，需要建構以下各種伺服器，如：網站伺服器、電子郵件伺服器、檔案伺服器等。而公司的IT政策、IT預算等因素會決定企業依需求建構不同平台的伺服器(如：Windows、Linux ... (61 characters truncated) ... 決策，避免屆時有「買問題進門」的困擾，這是最重要一環。但就系統管理人員，對伺服器的認識廣度與深度，和相關應用面認識也都息息相關。本課程除提供伺服器的相關概念介紹外，也針對部分伺服器建構流程進行依劇本不同的實作演練，期能讓您也能夠對架設伺服器不只有所認知，更能實作，讓概念認知與應用能在本課程結合。 ', 'content': ' 企業常見IT伺服器平台介紹 企業常見IT伺服器應用介紹 File伺服器介紹 Proxy/NAT/Firewall介紹 DNS伺服器介紹 Web伺服器介紹 Mail伺服器介紹 集中驗證伺服器介紹 授權伺服器軟體vs.免費伺服器軟體 Hands on Lab  ', 'during': "['2020/10/30 ~ 2020/10/30 每週五']"}, {'today': '20200720', 'title': 'Power BI Desktop數據分析實戰', 'audience': ' 適合對象  想要深入了解及學習Power BI Desktop技術，以豐富資料分析報表者 數據及報表分析人員 想要學習數據分析及商業思考的使用者 熟悉SQL Server報表的建立者   ', 'price': '費用：NT$ 20,000', 'hours': '時數：21小時', 'purpose': '數據分析已成為目前企業決勝的關鍵，唯有對手上的資料數據了解的越多，我們也才能做的更多及更好。此時便需要一個簡單且有效的工具來協助我們了解手上的資料，可是，有這樣一個大數據分析工具存在嗎？這個問題的答案便是Power BI Desktop。 本課程將會介紹如何使用Power BI Desktop擷取各種資料來源中的數據進行清洗及重塑的工作，並將資料載入資料模型進行加值處理及計算，以提高資料儲存及檢索之效能，最後以視覺化的表格、圖表及地圖來反應資料內容與關聯性，使得企業主可快速得到心中疑問的解答，並從大數據中找到提升企業競爭力的商機。 ', 'content': ' Power BI產品組合介紹 Power BI Desktop的下載與安裝 Power BI Desktop資料的匯入  A.  不同資料格式的匯入及合併 B.  彙整資料夾中多個相同格式的資料檔 C.  資料的清理、淨化、重塑及轉換 D.  資料表間的合併及附加處理 E.  查詢步驟的組態與調 ... (215 characters truncated) ... 式視覺化儀表板 B.  各項視覺化效果(表格、圖表、地圖......)的運用搭配介紹 C.  各項視覺化效果的細部組態 D.  視覺化效果的進階分析設定 E.  使用書籤串連數據解析及建立故事 F.  自訂視覺化效果的匯入及運用  發佈Power BI Desktop報表至Power BI服務  ', 'during': "['2020/08/03 ~ 2020/08/05 每週一二三', '2020/10/31 ~ 2020/11/07 每週六日', '2020/11/16 ~ 2020/11/18 每週一二三']"}  ... displaying 10 of 44 total bound parameter sets ...  {'today': '20200720', 'title': 'ISO 27001：2013資訊安全管理系統主導稽核員訓練課程', 'audience': ' 適合對象 1.資訊技術 (IT) 與信息安全 (IS) 相關經理人 2.風險管理相關經理人 3.公司治理、政策制定經理人 4.欲從事ISO 27001諮詢、顧問之人員 5.內部稽核員、電腦稽核員  ', 'price': '費用：NT$ 50,000', 'hours': '時數：40小時', 'purpose': '此課程為「行政院國家資通安全會報」認可之資通安全專業證照 資訊(Information)可說是現今最為重要的無形資產，也是企業成功的基礎與命脈。如何確保客戶與公司內部資訊的安全性、完整性及可用性，是當今最重要的課題之一。資訊安全管理系統(Information Security Managemen ... (243 characters truncated) ... 現追蹤到完成稽核。 3.如何應用管理系統稽核指引 ISO 19011 (與認證規範  ISO 17021) 要求，進行資訊安全管理系統稽核 (包含稽核計畫、執行、報告、發現追蹤到完成稽核)，以確保組織的資訊安全管理系統的有效性，並符合國際標準 ISO 27001 (或 ISO 27002)要求。 ', 'content': '1.資訊安全管理系統要求 (ISO/IEC 27001) 2.資訊安全管理系統要求 (ISO/IEC 27001)、管理系統稽核指引(ISO 19011)、驗證稽核要求 (ISO 17021) 3.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核準備與計畫  4.管理系統稽核指引 (ISO 19011)-稽核過程演練-稽核起始會議、執行現場稽核活動、稽核員角色與稽核技巧演練 5.管理系統稽核指引(ISO 19011)-稽核過程演練-稽核結束會議、稽核發現追蹤與認證 ', 'during': "['2020/08/10 ~ 2020/08/14 每週一二三四五', '2020/08/15 ~ 2020/08/23 每週五六日', '2020/08/17 ~ 2020/08/21 每週一二三四五']"}, {'today': '20200720', 'title': 'Dreamweaver專業網頁編輯應用', 'audience': ' 適合對象 欲學習專業網站建置與編輯應用者  ', 'price': '費用：NT$ 8,400', 'hours': '時數：24小時', 'purpose': '本課程將學習如何從網頁的基礎內容編輯開始，進行HTML檔案格式的編排與設計，了解網頁格式的特殊性，以及如何完成網站架構規劃，使用免費的網頁空間完成網站架設，對於之前從沒有學過網頁設計的人來說，這一門課程可以讓您學到最實用的網頁設計技巧，並為進階的CSS排版，及HTML5等新技術打好基礎。 學會了網 ... (109 characters truncated) ... iv)應用，讓您的網站開始有互動功能，包括以滑鼠開關顯示隱藏頁面內容、拖曳頁面內容等，加上以實際完整網站建置範例，讓您即學即用，開心完成專業網站設計的第一步。 最後本課程也將讓您開始接觸下一階段的網頁專業，即是CSS的使用，先輕鬆跟CSS第一類接觸，嘗試開始使用CSS，做好學習CSS排版的準備。 ', 'content': '1.網站定義與基本操作  1-1網頁檔案基本規則 1-2 定義網站 1-3 檔案基本操作 1-4 網頁文字資料 1-5 空白字元 1-6 清單 1-7 頁面屬性 1-8 插入影像 1-9 滑鼠互動影像 1-10 文字與影像排版 2.網頁影像與Photoshop快速整合     2-1 網頁影像格式 ... (496 characters truncated) ...  整合AP元素控制-互動產品說明 6-8 jQuery效果 6-9 覆蓋版面廣告的效果應用  CSS基礎 7-1 如何開始設定CSS 7-2 CSS設定文字屬性 7-3 CSS設定背景圖 7-4 類別選取器控制頁面內容設定 7-5 CSS基礎圖文編排  *附錄 / 申請免費網站空間與上傳發佈網站 ', 'during': "['2020/09/07 ~ 2020/09/10 每週一二三四五', '2020/10/19 ~ 2020/11/11 每週一三', '2020/11/30 ~ 2020/12/03 每週一二三四五']"})]
+(Background on this error at: http://sqlalche.me/e/2j85),新增失敗
+[20200720 21:35:54]第四步驟:寫入結束
+[20200720 21:38:33]執行完第四步驟時: 新增成功
+[20200720 21:38:33]第四步驟:寫入結束
+[20200720 21:40:12]執行完第四步驟時: 新增成功
+[20200720 21:40:12]第四步驟:寫入結束
+[20200720 21:43:02]執行完第四步驟時: 新增成功
+[20200720 21:43:02]第四步驟:寫入結束
+[20200720 21:44:21]執行完第四步驟時: 新增成功
+[20200720 21:44:21]第四步驟:寫入結束
+[20200720 21:46:57]執行完第四步驟時: 新增成功
+[20200720 21:46:57]第四步驟:寫入結束
+[20200720 21:49:03]執行完第四步驟時: 新增成功
+[20200720 21:49:03]第四步驟:寫入結束
+[20200720 23:45:39]執行第四步完錯誤為: local variable 'now' referenced before assignment,新增失敗
+[20200720 23:45:39]執行第四步完,寫入結束
+[20200721 23:21:50]執行完第三步驟的錯誤為: list index out of range
+[20200722 00:19:51]執行完第四步驟時: 新增成功
+[20200722 00:19:51]第四步驟:寫入結束
+[20200722 00:25:59]執行完第四步驟時: 新增成功
+[20200722 00:25:59]第四步驟:寫入結束
+[20200722 00:26:59]執行完第四步驟時: 新增成功
+[20200722 00:26:59]第四步驟:寫入結束
+[20200722 00:30:49]執行完第四步驟時: 新增成功
+[20200722 00:30:49]第四步驟:寫入結束
+[20200722 00:33:07]執行完第四步驟時: 新增成功
+[20200722 00:33:07]第四步驟:寫入結束
+[20200722 00:37:27]執行完第四步驟時: 新增成功
+[20200722 00:37:27]第四步驟:寫入結束
+[20200722 00:39:57]執行完第四步驟時: 新增成功
+[20200722 00:39:57]第四步驟:寫入結束
+[20200722 00:41:10]執行完第四步驟的錯誤為: (builtins.TypeError) Not a boolean value: 'False'
+[SQL: INSERT INTO `UCOM_ED_wash` (today, web, title, price, hours, tech, bz, lan, others) VALUES (%(today)s, %(web)s, %(title)s, %(price)s, %(hours)s, %(tech)s, %(bz)s, %(lan)s, %(others)s)]
+[parameters: [{'today': '2020-07-22', 'web': '恆逸訓練中心', 'title': 'ISO 27001：2013資訊安全管理系統主導稽核員訓練課程', 'price': '50000', 'hours': '40', 'tech': 'Network', 'bz': None,  ... (7114 characters truncated) ... 2', 'web': '恆逸訓練中心', 'title': 'Dreamweaver專業網頁編輯應用', 'price': '8400', 'hours': '24', 'tech': 'WebDesign', 'bz': None, 'lan': None, 'others': 'False'}]],新增失敗
+[20200722 00:41:10]第四步驟:寫入結束
+[20200722 00:41:33]執行完第四步驟時: 新增成功
+[20200722 00:41:33]第四步驟:寫入結束
+[20200722 09:11:06]執行完第三步驟的錯誤為: name 'np' is not defined
+[20200722 09:13:17]執行完第三步驟的錯誤為: name 'np' is not defined
+[20200722 09:17:17]執行完第三步驟的錯誤為: name 'np' is not defined
+[20200722 09:22:39]執行完第三步驟的錯誤為: name 'np' is not defined
+[20200722 09:30:12]執行完第三步驟的錯誤為: name 'np' is not defined
+[20200722 09:30:12]執行完第四步驟的錯誤為: 'NoneType' object has no attribute 'to_sql',新增失敗
+[20200722 09:30:12]第四步驟:寫入結束
+[20200722 09:30:39]執行完第三步驟的錯誤為: name 'np' is not defined
+[20200722 17:21:18]執行完第ㄧ步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+[20200722 17:21:58]執行完第ㄧ步驟的錯誤為: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+[20200722 17:23:39]執行完第三步驟的錯誤為: name 'np' is not defined
+[20200722 17:26:25]執行完第四步驟時: 新增成功
+[20200722 17:26:25]第四步驟:寫入結束
+[20200724 15:07:58]執行完第四步驟的錯誤為: (pymysql.err.InternalError) (1054, "Unknown column 'nan' in 'field list'")
+[SQL: INSERT INTO `UCOM_ED_wash` (today, web, title, price, hours, tech, bz, lan, others, start_time, end_time, type, all_city, taipei_dist, address, weekday, weekends) VALUES (%(today)s, %(web)s, %(title)s, %(price)s, %(hours)s, %(tech)s, %(bz)s, %(lan)s, %(others)s, %(start_time)s, %(end_time)s, %(type)s, %(all_city)s, %(taipei_dist)s, %(address)s, %(weekday)s, %(weekends)s)]
+[parameters: ({'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': 'ISO 27001：2013資訊安全管理系統主導稽核員訓練課程', 'price': '50000', 'hours': '40', 'tech': 'Network', 'bz': None, 'lan': None, 'others': 0, 'start_time': '09:00', 'end_time': '18:00', 'type': 'offline', 'all_city': 'taipei', 'taipei_dist': '松山區', 'address': '10491台北市松山區復興北路99號', 'weekday': 1, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]}, {'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': 'CompTIA Network＋國際網路認證班', 'price': '45000', 'hours': '40', 'tech': 'Network', 'bz': None, 'lan': None, 'others': 0, 'start_time': '09:00', 'end_time': '18:00', 'type': 'offline', 'all_city': 'taipei', 'taipei_dist': '松山區', 'address': '10491台北市松山區復興北路99號', 'weekday': 1, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]}, {'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': 'CDCP資訊機房管理國際認證班', 'price': '60000', 'hours': '14', 'tech': None, 'bz': None, 'lan': None, 'others': 1, 'start_time': '09:00', 'end_time': '17:00', 'type': 'offline', 'all_city': 'taipei', 'taipei_dist': '松山區', 'address': '10491台北市松山區復興北路99號', 'weekday': 1, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]}, {'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': 'Bootstrap網頁實作PHP Apache商業網站', 'price': '12000', 'hours': '24', 'tech': 'WebDesign', 'bz': None, 'lan': None, 'others': 0, 'start_time': '18:30', 'end_time': '21:30', 'type': 'offline', 'all_city': 'taipei', 'taipei_dist': '松山區', 'address': '10491台北市松山區復興北路99號', 'weekday': 1, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]}, {'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': '全方位網路系統工程師就業認證養成班', 'price': '89000', 'hours': '560', 'tech': 'Network', 'bz': None, 'lan': None, 'others': 0, 'start_time': '09:00', 'end_time': '16:00', 'type': 'offline', 'all_city': 'taipei', 'taipei_dist': '松山區', 'address': '10491台北市松山區復興北路99號', 'weekday': 1, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]}, {'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': 'JavaScript程式設計', 'price': '22000', 'hours': '28', 'tech': 'WebDesign', 'bz': None, 'lan': None, 'others': 0, 'start_time': '09:00', 'end_time': '17:00', 'type': 'offline', 'all_city': 'taipei', 'taipei_dist': '松山區', 'address': '10491台北市松山區復興北路99號', 'weekday': 0, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]}, {'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': '企業IT服務伺服器架設與選擇方案導覽', 'price': '6000', 'hours': '7', 'tech': None, 'bz': None, 'lan': None, 'others': 1, 'start_time': '09:00', 'end_time': '17:00', 'type': 'offline', 'all_city': 'taipei', 'taipei_dist': '松山區', 'address': '10491台北市松山區復興北路99號', 'weekday': 1, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]}, {'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': 'Power BI Desktop數據分析實戰', 'price': '20000', 'hours': '21', 'tech': None, 'bz': None, 'lan': None, 'others': 1, 'start_time': '09:00', 'end_time': '17:00', 'type': 'offline', 'all_city': 'taipei', 'taipei_dist': '松山區', 'address': '10491台北市松山區復興北路99號', 'weekday': 1, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]}  ... displaying 10 of 176 total bound parameter sets ...  {'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': 'ISO 27001：2013資訊安全管理系統主導稽核員訓練課程', 'price': '50000', 'hours': '40', 'tech': 'Network', 'bz': None, 'lan': None, 'others': 0, 'start_time': '09:00', 'end_time': '18:00', 'type': 'offline', 'all_city': 'others', 'taipei_dist': None, 'address': '806高雄市前鎮區中山二路2號', 'weekday': 1, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]}, {'today': '2020-07-24', 'web': '恆逸教育訓練中心', 'title': 'Dreamweaver專業網頁編輯應用', 'price': '8400', 'hours': '24', 'tech': 'WebDesign', 'bz': None, 'lan': None, 'others': 0, 'start_time': '09:00', 'end_time': '16:00', 'type': 'offline', 'all_city': 'others', 'taipei_dist': None, 'address': '806高雄市前鎮區中山二路2號', 'weekday': 1, 'weekends': [False, False, False, False, False, True, False, False, False, True, False, False, False, nan, False, False, False, False, False, False, False, False, ... (3 characters truncated) ... lse, False, False, False, False, False, False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False]})]
+(Background on this error at: http://sqlalche.me/e/2j85),新增失敗
+[20200724 15:07:58]第四步驟:寫入結束
+[20200724 15:09:51]執行完第四步驟時: 新增成功
+[20200724 15:09:51]第四步驟:寫入結束
+[20200724 15:13:15]執行完第四步驟時: 新增成功
+[20200724 15:13:15]第四步驟:寫入結束
+[20200724 21:35:28]執行完第四步驟的錯誤為: Table 'cadtc_ED_wash' already exists.,新增失敗
+[20200724 21:35:28]第四步驟:寫入結束
+[20200724 21:39:14]執行完第三步驟的錯誤為: list index out of range
+[20200724 21:39:41]執行完第三步驟的錯誤為: list index out of range
+[20200724 21:45:09]執行完第四步驟時: 新增成功
+[20200724 21:45:09]第四步驟:寫入結束
+[20200724 21:50:27]執行完第四步驟時: 新增成功
+[20200724 21:50:27]第四步驟:寫入結束
+[20200724 23:05:22]執行完第三步驟的錯誤為: list index out of range
+[20200724 23:06:11]執行完第四步驟時: 新增成功
+[20200724 23:06:11]第四步驟:寫入結束
+[20200725 12:01:43]執行完第四步驟時: 新增成功
+[20200725 12:01:43]第四步驟:寫入結束
+[20200725 12:30:44]執行完第四步驟時: 新增成功
+[20200725 12:30:44]第四步驟:寫入結束
+[20200725 14:48:21]執行完第ㄧ步驟的錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='pager']/ul/li[12]/a"}
+  (Session info: headless chrome=84.0.4147.89)
+
+[20200725 14:49:43]執行完第ㄧ步驟的錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='pager']/ul/li[12]/a"}
+  (Session info: headless chrome=84.0.4147.89)
+
+[20200725 14:50:49]執行完第ㄧ步驟的錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='pager']/ul/li[12]/a"}
+  (Session info: headless chrome=84.0.4147.89)
+
+[20200725 14:51:49]執行完第ㄧ步驟的錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='pager']/ul/li[12]/a"}
+  (Session info: headless chrome=84.0.4147.89)
+
+[20200725 14:52:44]執行完第ㄧ步驟的錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='pager']/ul/li[12]/a"}
+  (Session info: headless chrome=84.0.4147.89)
+
+[20200725 14:53:40]執行完第ㄧ步驟的錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='pager']/ul/li[12]/a"}
+  (Session info: headless chrome=84.0.4147.89)
+
+[20200725 16:39:09]執行完第三步驟的錯誤為: local variable 'now' referenced before assignment,新增失敗
+[20200725 16:39:09]第三步驟寫入結束
+[20200725 16:54:04]執行完第三步驟的錯誤為: local variable 'now' referenced before assignment,新增失敗
+[20200725 16:54:04]第三步驟寫入結束
+[20200727 11:22:29]執行完第四步驟時: 新增成功
+[20200727 11:22:29]第四步驟:寫入結束
+[20200727 11:24:33]執行完第四步驟時: 新增成功
+[20200727 11:24:33]第四步驟:寫入結束
+[20200727 11:33:49]執行完第四步驟時: 新增成功
+[20200727 11:33:49]第四步驟:寫入結束
+[20200727 11:36:24]執行完第四步驟時: 新增成功
+[20200727 11:36:24]第四步驟:寫入結束
+[20200727 11:38:48]執行完第四步驟時: 新增成功
+[20200727 11:38:48]第四步驟:寫入結束
+[20200727 11:43:03]執行完第三步驟的錯誤為: list index out of range
+[20200727 11:44:40]執行完第三步驟的錯誤為: list index out of range
+[20200727 11:51:37]執行完第三步驟的錯誤為: list index out of range
+[20200727 11:56:01]執行完第三步驟的錯誤為: list index out of range
+[20200727 12:00:13]執行完第三步驟的錯誤為: list index out of range
+[20200727 12:02:28]執行完第三步驟的錯誤為: list index out of range
+[20200727 12:04:44]執行完第四步驟時: 新增成功
+[20200727 12:04:44]第四步驟:寫入結束
+[20200902 09:54:13]執行第二步完錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/table[@id='basic']/tbody/tr[2]/td/table[@id='main']/tbody/tr/td[1]/table[@id='main_left']/tbody/tr[2]/td/table[@id='synopsisi'][1]/tbody/tr[2]/td/table[@id='synopsis_board']/tbody/tr/td/table[@id='content_main']/tbody/tr[1]/td/table/tbody/tr[1]/td/span[@class='course_title_en']"}
+  (Session info: headless chrome=84.0.4147.135)
+,可能有新增新格式的網址
+[20200902 10:11:26]執行第二步完錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/table[@id='basic']/tbody/tr[2]/td/table[@id='main']/tbody/tr/td[1]/table[@id='main_left']/tbody/tr[2]/td/table[@id='synopsisi'][1]/tbody/tr[2]/td/table[@id='synopsis_board']/tbody/tr/td/table[@id='content_main']/tbody/tr[1]/td/table/tbody/tr[1]/td/span[@class='course_title_en']"}
+  (Session info: headless chrome=84.0.4147.135)
+,可能有新增新格式的網址
+[20200902 10:46:05]執行第二步完錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/table[@id='basic']/tbody/tr[2]/td/table[@id='main']/tbody/tr/td[1]/table[@id='main_left']/tbody/tr[2]/td/table[@id='synopsisi'][1]/tbody/tr[2]/td/table[@id='synopsis_board']/tbody/tr/td/table[@id='content_main']/tbody/tr[1]/td/table/tbody/tr[1]/td/span[@class='course_title_en']"}
+  (Session info: headless chrome=84.0.4147.135)
+,可能有新增新格式的網址
+[20200902 11:17:56]執行第二步完錯誤為: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/table[@id='basic']/tbody/tr[2]/td/table[@id='main']/tbody/tr/td[1]/table[@id='main_left']/tbody/tr[2]/td/table[@id='synopsisi'][1]/tbody/tr[2]/td/table[@id='synopsis_board']/tbody/tr/td/table[@id='content_main']/tbody/tr[1]/td/table/tbody/tr[1]/td/span[@class='course_title_en']"}
+  (Session info: headless chrome=84.0.4147.135)
+,可能有新增新格式的網址
+[20200902 12:44:56]執行第四步完錯誤為: local variable 'now' referenced before assignment,新增失敗
+[20200902 12:44:56]執行第四步完,寫入結束

@@ -1,0 +1,101 @@
+daytime,filename,processnum,err,description
+2020-06-30 17:37:15,web1,1,File "web1" line 81 in UCOM_ED : [UnboundLocalError] local variable 'df' referenced before assignment,
+2020-07-03 16:24:46,web1,2,File "web1" line 212 in <module> : [NameError] name 'soup' is not defined,執行完第一步驟時錯誤
+2020-07-03 16:28:44,web1,3,File "web1" line 135 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 16:52:45,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:00:20,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:01:07,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:03:47,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:07:04,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:10:21,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:11:27,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:15:42,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:16:42,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:23:34,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:25:15,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:26:18,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-03 17:26:52,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-04 10:11:25,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-04 10:20:31,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-04 10:21:34,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-04 11:16:07,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-04 11:17:27,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-04 11:53:20,web1,3,File "web1" line 140 in get_data : [TypeError] can only concatenate str (not "UnboundLocalError") to str,執行完第二步驟時錯誤
+2020-07-04 11:58:14,web1,3,File "web1" line 224 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 12:07:53,web1,3,File "web1" line 224 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 12:10:34,web1,3,File "web1" line 139 in get_data : [NameError] name 'detail_err' is not defined,執行完第二步驟時錯誤
+2020-07-04 12:11:50,web1,3,File "web1" line 224 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 12:14:14,web1,3,File "web1" line 230 in <module> : [TypeError] get_data() takes 1 positional argument but 2 were given,執行完第二步驟時錯誤
+2020-07-04 12:14:47,web1,3,File "web1" line 230 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 12:22:57,web1,3,File "web1" line 230 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 12:30:36,web1,3,File "web1" line 230 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 12:33:31,web1,3,File "web1" line 230 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 12:39:07,web1,3,File "web1" line 222 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 13:04:05,web1,3,File "web1" line 222 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 13:06:38,web1,3,File "web1" line 222 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 13:08:27,web1,3,File "web1" line 221 in <module> : [TypeError] cannot unpack non-iterable NoneType object,執行完第二步驟時錯誤
+2020-07-04 13:53:51,web1,5,File "web1" line 176 in indatabase : [AttributeError] 'function' object has no attribute 'Error',執行完第四步驟時錯誤
+2020-07-04 13:56:47,web1,5,File "web1" line 179 in indatabase : [AttributeError] 'function' object has no attribute 'Error',執行完第四步驟時錯誤
+2020-07-04 13:59:09,web1,5,File "web1" line 179 in indatabase : [AttributeError] 'function' object has no attribute 'Error',執行完第四步驟時錯誤
+2020-07-04 14:01:02,web1,5,File "web1" line 179 in indatabase : [AttributeError] 'function' object has no attribute 'Error',執行完第四步驟時錯誤
+2020-07-04 14:03:36,web1,5,File "web1" line 179 in indatabase : [AttributeError] 'function' object has no attribute 'Error',執行完第四步驟時錯誤
+2020-07-04 14:05:03,web1,5,File "web1" line 179 in indatabase : [AttributeError] 'function' object has no attribute 'Error',執行完第四步驟時錯誤
+2020-07-04 14:08:10,web1,5,File "web1" line 177 in indatabase : [AttributeError] 'function' object has no attribute 'Error',執行完第四步驟時錯誤
+2020-07-04 14:26:36,web1,5,File "web1" line 177 in indatabase : [AttributeError] 'function' object has no attribute 'Error',執行完第四步驟時錯誤
+2020-07-04 14:39:11,web1,5,File "web1" line 177 in indatabase : [TypeError] catching classes that do not inherit from BaseException is not allowed,執行完第四步驟時錯誤
+2020-07-06 16:46:57,web2,1,File "web2" line 63 in Cadtc_ED : [NameError] name 'diver' is not defined,
+2020-07-20 11:07:37,datamonitor,1,File "datamonitor" line 83 in start : [WebDriverException] 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home,執行完第一步驟時錯誤
+2020-07-20 11:12:08,datamonitor,1,File "datamonitor" line 83 in start : [WebDriverException] 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home,執行完第一步驟時錯誤
+2020-07-20 11:13:25,datamonitor,1,File "datamonitor" line 83 in start : [WebDriverException] 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home,執行完第一步驟時錯誤
+2020-07-20 11:15:06,datamonitor,1,File "datamonitor" line 83 in start : [WebDriverException] 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home,執行完第一步驟時錯誤
+2020-07-20 11:25:58,newweb1wash,1,File "newweb1wash" line 83 in start : [WebDriverException] 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home,執行完第一步驟時錯誤
+2020-07-20 11:35:07,newweb1wash,2,File "newweb1wash" line 229 in <module> : [TypeError] find_url() takes 1 positional argument but 2 were given,執行完第二步驟時錯誤
+2020-07-20 11:52:28,newweb1wash,5,File "newweb1wash" line 251 in <module> : [NameError] name 'today' is not defined,執行完第五步驟時錯誤
+2020-07-20 16:21:42,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'engine' referenced before assignment,
+2020-07-20 16:23:04,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'engine' referenced before assignment,
+2020-07-20 16:31:42,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'engine' referenced before assignment,
+2020-07-20 16:31:59,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'engine' referenced before assignment,
+2020-07-20 16:35:03,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'engine' referenced before assignment,
+2020-07-20 16:40:57,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'engine' referenced before assignment,
+2020-07-20 17:17:18,newweb1wash,2,File "newweb1wash" line 78 in data_wash : [UnboundLocalError] local variable 'hours_list' referenced before assignment,執行完第一步驟時錯誤
+2020-07-20 17:17:59,newweb1wash,2,File "newweb1wash" line 78 in data_wash : [UnboundLocalError] local variable 'hours_list' referenced before assignment,執行完第一步驟時錯誤
+2020-07-20 17:19:39,newweb1wash,2,File "newweb1wash" line 78 in data_wash : [UnboundLocalError] local variable 'hours_list' referenced before assignment,執行完第一步驟時錯誤
+2020-07-20 17:43:52,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'engine' referenced before assignment,
+2020-07-20 17:46:21,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'engine' referenced before assignment,
+2020-07-20 20:52:27,newweb1wash,1,File "newweb1wash" line 59 in UCOM_ED_wash : [UnboundLocalError] local variable 'df' referenced before assignment,
+2020-07-20 20:54:58,newweb1wash,1,File "newweb1wash" line 59 in UCOM_ED_wash : [UnboundLocalError] local variable 'df' referenced before assignment,
+2020-07-20 20:55:45,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'df' referenced before assignment,
+2020-07-20 20:56:18,newweb1wash,1,File "newweb1wash" line 58 in UCOM_ED_wash : [UnboundLocalError] local variable 'df' referenced before assignment,
+2020-07-20 20:56:52,newweb1wash,1,File "newweb1wash" line 59 in UCOM_ED_wash : [UnboundLocalError] local variable 'df' referenced before assignment,
+2020-07-21 23:21:50,web1wash,3,File "web1wash" line 108 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-22 09:11:06,newweb2wash,3,File "newweb2wash" line 112 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-22 09:13:17,newweb2wash,3,File "newweb2wash" line 112 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-22 09:17:17,newweb2wash,3,File "newweb2wash" line 113 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-22 09:22:39,newweb2wash,3,File "newweb2wash" line 113 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-22 09:30:39,newweb2wash,3,File "newweb2wash" line 113 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-22 17:21:18,newweb2wash,1,File "newweb2wash" line 55 in cadtc_ED_wash : [UnboundLocalError] local variable 'df' referenced before assignment,
+2020-07-22 17:21:58,newweb2wash,1,File "newweb2wash" line 55 in cadtc_ED_wash : [UnboundLocalError] local variable 'df' referenced before assignment,
+2020-07-22 17:23:39,newweb2wash,3,File "newweb2wash" line 113 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-24 21:36:14,web2wash,3,File "web2wash" line 144 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-24 21:39:25,web2wash,3,File "web2wash" line 144 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-24 23:05:10,web1wash,3,File "web1wash" line 173 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-25 14:48:13,newweb3,1,File "newweb3" line 62 in school1111 : [UnboundLocalError] local variable 'soup' referenced before assignment,
+2020-07-25 14:49:37,newweb3,1,File "newweb3" line 62 in school1111 : [UnboundLocalError] local variable 'soup' referenced before assignment,
+2020-07-25 14:50:44,newweb3,1,File "newweb3" line 62 in school1111 : [UnboundLocalError] local variable 'soup' referenced before assignment,
+2020-07-25 14:51:44,newweb3,1,File "newweb3" line 62 in school1111 : [UnboundLocalError] local variable 'soup' referenced before assignment,
+2020-07-25 14:52:39,newweb3,1,File "newweb3" line 63 in school1111 : [UnboundLocalError] local variable 'soup' referenced before assignment,
+2020-07-25 14:53:34,newweb3,1,File "newweb3" line 63 in school1111 : [UnboundLocalError] local variable 'soup' referenced before assignment,
+2020-07-25 15:39:27,newweb3,1,File "newweb3" line 436 in increment : [MaxRetryError] HTTPConnectionPool(host='127.0.0.1', port=51633): Max retries exceeded with url: /session/9c452c0cd081aadf598f9216cfb5abb3/window (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8fb907ad90>: Failed to establish a new connection: [Errno 61] Connection refused')),
+2020-07-25 16:23:23,newweb3,2,File "newweb3" line 123 in <module> : [NameError] name 'soup' is not defined,執行完第一步驟時錯誤
+2020-07-27 11:19:57,web3wash,2,File "web3wash" line 317 in <module> : [NameError] name 'df' is not defined,執行完第一步驟時錯誤
+2020-07-27 11:43:00,web3wash,3,File "web3wash" line 263 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-27 11:44:37,web3wash,3,File "web3wash" line 263 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-27 11:51:34,web3wash,3,File "web3wash" line 281 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-27 11:55:58,web3wash,3,File "web3wash" line 281 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第二步驟時錯誤
+2020-07-27 12:00:10,web3wash,3,File "web3wash" line 281 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第三步驟時錯誤
+2020-07-27 12:02:25,web3wash,3,File "web3wash" line 281 in data_Frame : [UnboundLocalError] local variable 'df_wash' referenced before assignment,執行完第三步驟時錯誤
+2020-09-02 09:43:14,newweb2,2,File "newweb2" line 371 in get_data : [UnboundLocalError] local variable 'title' referenced before assignment,執行完第二步驟時錯誤
+2020-09-02 09:59:24,newweb2,2,File "newweb2" line 436 in increment : [MaxRetryError] HTTPConnectionPool(host='127.0.0.1', port=51950): Max retries exceeded with url: /session/b26cc85fcb96b268231cc1959876be9f/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcb8e95d750>: Failed to establish a new connection: [Errno 61] Connection refused')),執行完第二步驟時錯誤
+2020-09-02 10:00:29,newweb2,2,File "newweb2" line 371 in get_data : [UnboundLocalError] local variable 'title' referenced before assignment,執行完第二步驟時錯誤
+2020-09-02 10:28:33,newweb2,2,File "newweb2" line 368 in get_data : [UnboundLocalError] local variable 'title' referenced before assignment,執行完第二步驟時錯誤
+2020-09-02 10:53:17,newweb2,2,File "newweb2" line 366 in get_data : [UnboundLocalError] local variable 'title' referenced before assignment,執行完第二步驟時錯誤
